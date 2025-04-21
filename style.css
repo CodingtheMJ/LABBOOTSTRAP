@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .card img {
+    object-fit: cover;
+    height: 150px;
+  }
+  
